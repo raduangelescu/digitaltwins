@@ -1,0 +1,8 @@
+lmfit==1.0.2
+matplotlib==3.3.4
+networkx==2.5.1
+numpy==1.19.3
+pandas==1.2.3
+py7zr==0.14.1
+requests==2.25.1
+scipy==1.6.1
